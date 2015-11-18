@@ -121,17 +121,17 @@ input[type=text] {
 }
 
 .bell {
-	background-image: url(https://raw.githubusercontent.com/n8sb/odin-project/master/google-homepage/images/sprite.png);
-	background-position: -69px -69px;
-	position: absolute;
 	width: 30px;
 	height: 30px;
 }
 
 .apps {
-	background-image: url(https://raw.githubusercontent.com/n8sb/odin-project/master/google-homepage/images/sprite.png);
-	background-position: -69px -854px;
-	position: absolute;
 	width: 30px;
 	height: 30px;
+}
+
+.share {
+	border-radius: 1px;
+	background-color: #f4f4f4;
+	padding: 7px 15px;
 }
